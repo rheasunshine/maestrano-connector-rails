@@ -1,0 +1,5 @@
+mno_devpl:
+  protocol: https
+  host: developer.maestrano.test
+  pusher:
+    key: <%= %w(a03f2d03 f3ae 4de0 a80a 113c22e6a37b).join('-') %>
